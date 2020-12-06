@@ -10,7 +10,7 @@ const Directory = props => {
                 <div
                     className = "item"
                     style = {{
-                        backgroundImage: 'url(' + { Events } + ")"
+                        background-image: url( '' );
                     }}
                 >
                     <a>
